@@ -1,0 +1,8 @@
+[book]
+authors = ["Yukinari Tani"]
+multilingual = false
+src = "src"
+title = "Cowgod's Chip-8 Technical Reference v1.0"
+
+[build]
+build-dir = "docs"
